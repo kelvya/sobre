@@ -1,7 +1,7 @@
 /* Style CSS */
 
 .logo {
-    background: url(/images/logo-branca.png) no-repeat transparent;
+    background: url('../../images/logo-branca.png') no-repeat transparent;
     background-size: 100%;
     width: 100px;
     height: 100px;
@@ -12,17 +12,17 @@
 
 /* Cores da marca - Azul */
 
-.global-bg-azul{
-    background-color: #213242;
+.global-bg-azul {
+    background-color: #213242 !important;
 }
 
-.global-border-azul{
+.global-border-azul {
     border: 1px solid #213242;
     border-radius: 2px;
 }
 
-.fonteAzul{
-    color:#213242;
+.fonteAzul {
+    color: #213242;
 }
 
 
