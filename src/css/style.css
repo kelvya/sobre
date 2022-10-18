@@ -1,12 +1,31 @@
 /* Style CSS */
 
+.logo {
+    background: url(/images/logo-branca.png) no-repeat transparent;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+    padding: 0 0 0 0;
+    font: 500 20px/20px 'Georgia', Times, serif;
+    letter-spacing: 0;
+}
+
+/* Cores da marca - Azul */
+
 .global-bg-azul{
     background-color: #213242;
+}
+
+.global-border-azul{
+    border: 1px solid #213242;
+    border-radius: 2px;
 }
 
 .fonteAzul{
     color:#213242;
 }
+
+/* Cores da marca -  */
 
 
 
